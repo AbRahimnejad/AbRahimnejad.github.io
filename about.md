@@ -5,8 +5,7 @@ permalink: /about/
 ---
 
 ## Short Biography
-I am a research fellow at McMaster University's Intelligent and Cognitive Engineering Laboratory. My work focuses on estimation, machine learning, and optimization for cyber‑physical systems, with applications in resilient, data‑driven operation and control of smart energy systems as well as mechatronic and robotic platforms. I develop robust state‑estimation and filtering methods (including lattice and strong‑tracking variants) and explore learning‑based approaches that improve sensing, inference, and decision‑making in complex, noisy environments.
-I am a Research Fellow at the Intelligent and Cognitive Engineering Laboratory, McMaster University, Hamilton, Ontario, Canada.
+I am a research fellow at McMaster University's Intelligent and Cognitive Engineering Laboratory. My work focuses on estimation, machine learning, and optimization for cyber‑physical systems, with applications in resilient, data‑driven operation and control of smart energy systems as well as mechatronic and robotic platforms. I develop robust state‑estimation and filtering methods and explore learning‑based approaches that improve sensing, inference, and decision‑making in complex, noisy environments.
 
 ### Research Profile
 
