@@ -8,7 +8,8 @@ permalink: /
     <h1 class="hero-title">Abolfazl Rahimnejad</h1>
     <p class="hero-subtitle">Research Fellow · Intelligent & Cognitive Engineering Laboratory, McMaster University</p>
     <div class="hero-actions">
-      <a class="btn" href="{{ site.baseurl }}/assets/CV.pdf" download>Download CV (PDF)</a>
+      <a class="btn" href="{{ site.baseurl }}/publications/">Publications</a>
+      <a class="btn btn-ghost" href="https://drive.google.com/file/d/1K_IAIFElGR3ujcKt1Cd0KyW0UchyCPBC/view?usp=drive_link" target="_blank" rel="noopener">View CV</a>
     </div>
   </div>
   <div class="hero-image">
@@ -18,17 +19,10 @@ permalink: /
 
 
 
-# Abolfazl Rahimnejad
-
-
-- [About](about.md)
-- [CV](cv.md)
-- [Publications](publications.md)
-- [Contact](contact.md)
 
 My research focuses on estimation and identification, machine learning, optimization methods, and cyber-physical systems. My experience spans smart energy systems and mechatronic/robotic platforms.
 
-[Google Scholar](https://scholar.google.ca/citations?hl=en&user=wP-8K6MAAAAJ&view_op=list_works&sortby=pubdate)
+
 
 <hr>
 <div class="social-row">
