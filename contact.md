@@ -29,4 +29,3 @@ permalink: /contact/
   </a>
 </div>
 
-<p class="small">CV: <a href="https://drive.google.com/file/d/1K_IAIFElGR3ujcKt1Cd0KyW0UchyCPBC/view?usp=drive_link" target="_blank" rel="noopener">Google Drive link</a></p>
