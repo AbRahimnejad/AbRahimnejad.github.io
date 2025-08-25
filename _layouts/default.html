@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description | default: site.title }}">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <nav class="site-nav">
+        <a href="{{ site.baseurl }}/">Home</a>
+        <a href="{{ site.baseurl }}/about/">About</a>
+        <a href="{{ site.baseurl }}/publications/">Publications</a>
+        <a href="{{ site.baseurl }}/contact/">Contact</a>
+        <a href="{{ site.baseurl }}/projects/">Projects &amp; Codes</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container content">
+    <article class="page">
+      {% if page.title %}<h1 class="page-title">{{ page.title }}</h1>{% endif %}
+      {{ content }}
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div>© {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</div>
+      <div class="muted">Built with Jekyll.</div>
+    </div>
+  </footer>
+</body>
+</html>

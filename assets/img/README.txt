@@ -1,0 +1,1 @@
+Upload your headshot as 'profile.jpg' into this folder.
