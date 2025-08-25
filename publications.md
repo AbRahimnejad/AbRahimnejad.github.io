@@ -6,7 +6,7 @@ permalink: /publications/
 
 # Selected Publications
 
-- **A. Rahimnejad**, J. Khazaei, "Data-driven Model-free Dynamic State Estimation of Single Machine Infinite Bus System," _IEEE Transactions on Power Systems_, Under Review.
+- **A. Rahimnejad**, J. Khazaei, S. A. Gadsden, "Data-driven Model-free Dynamic State Estimation of Single Machine Infinite Bus System," _IEEE Transactions on Power Systems_, Under Review.
 - **A. Rahimnejad**, S. A. Gadsden, "Addressing Cybersecurity in Smart Power Systems Through Variants of Reinforcement Learning: Attacks, Defenses, and Trends," _Expert Systems with Applications_, Under Review.
 - E. Akbari, **A. Rahimnejad**, S. A. Gadsden, "Holistic Swarm Optimization: A Novel Metaphor-Less Algorithm Guided by Whole Population Information for Addressing Exploration-Exploitation Dilemma," _Computer Methods in Applied Mechanics and Engineering_, vol. 445, 2025, Art. 118208. [doi:10.1016/j.cma.2025.118208](https://doi.org/10.1016/j.cma.2025.118208)
 - **A. Rahimnejad**, L. Vanfretti, S. A. Gadsden, M. Al-Shabi, "Strengthening Lattice Kalman Filters: Introducing Strong Tracking Lattice Filtering for Enhanced Robustness," _IEEE Access_, vol. 12, pp. 178552-178565, 2024. [doi:10.1109/ACCESS.2024.3504338](https://doi.org/10.1109/ACCESS.2024.3504338)
