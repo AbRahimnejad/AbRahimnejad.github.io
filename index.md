@@ -9,7 +9,7 @@ permalink: /
     <p class="hero-subtitle">Research Fellow · Intelligent & Cognitive Engineering Laboratory, McMaster University</p>
     <div class="hero-actions">
       <a class="btn" href="{{ site.baseurl }}/publications/">Publications</a>
-      <a class="btn btn-ghost" href="https://drive.google.com/file/d/1K_IAIFElGR3ujcKt1Cd0KyW0UchyCPBC/view?usp=drive_link" target="_blank" rel="noopener">View CV</a>
+      <a class="btn" href="https://drive.google.com/file/d/1K_IAIFElGR3ujcKt1Cd0KyW0UchyCPBC/view?usp=drive_link" target="_blank" rel="noopener"> CV</a>
     </div>
   </div>
   <div class="hero-image">
