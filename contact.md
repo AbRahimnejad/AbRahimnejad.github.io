@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<p>You can reach me at <a href="mailto:a.rahimnejad@mcmaster.ca">a.rahimnejad@mcmaster.ca</a>.</p>
+<p>You can reach me at <a href="mailto:a.rahimnejad@mcmaster.ca">a.rahimnejad@mcmaster.ca</a> or <a href="mailto:a.rahimnejad@gmail.com">a.rahimnejad@gmail.com</a>.</p>
 
 <div class="social-row">
   <a class="icon" href="https://github.com/AbRahimnejad/" target="_blank" rel="noopener" aria-label="GitHub">
