@@ -20,7 +20,7 @@ permalink: /
 
 
 
-My research focuses on estimation and identification, machine learning, optimization methods, and cyber-physical systems. My experience spans smart energy systems and mechatronic/robotic platforms.
+My research focuses on estimation and identification, machine learning, and optimization methods. My experience spans cyber-physical systems, including smart energy systems and mechatronic/robotic platforms. I’m also interested in data-driven and reinforcement learning approaches for resilient, secure operation and control of smart systems.
 
 
 
